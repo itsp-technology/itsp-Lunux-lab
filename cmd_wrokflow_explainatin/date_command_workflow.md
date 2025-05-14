@@ -2,7 +2,7 @@
 
 When you run the `date` command in Linux, here’s a simplified breakdown of its workflow:
 **date command workflow Daigrame**
-[!Screenshot](/cmd_wrokflow_explainatin/flow%20images/date-flow.png)
+![Screenshot](/cmd_wrokflow_explainatin/flow%20images/date-flow.png)
 ## 1. **Shell Parses the Command**
 - The shell (e.g., Bash) checks if `date` is a built-in command or an external program.
 - Since `date` is typically an external binary, the shell searches for it in directories listed in the `PATH` variable (e.g., `/bin/date` or `/usr/bin/date`).
